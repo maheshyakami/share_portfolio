@@ -1,0 +1,30 @@
+name: share_portfolio
+description: A Stock Portfolio Application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  moor_flutter: ^1.6.0
+  http: ^0.12.0+2
+  nepali_date_picker: ^3.0.1
+  flushbar: ^1.8.1
+  flutter_slidable: ^0.5.3
+  marquee_widget: ^0.7.7
+  provider: ^3.0.0+1
+  flutter_bloc: ^0.20.0
+  equatable: ^0.3.0
+  get_it: ^1.0.3+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  moor_generator: ^1.6.0+2
+  build_runner: ^1.6.5
+
+flutter:
+  uses-material-design: true
