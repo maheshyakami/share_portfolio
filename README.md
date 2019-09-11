@@ -1,6 +1,6 @@
 # share_portfolio
 
-A Flutter application created when attending bootcamp for flutter by Qubex Pvt. Ltd,supervised by Sarbagya Dhaubanjar[a link](https://github.com/sarbagyastha), for keeping record of your shares. The latest marked data are fetched from merolagani.com, and incase of internet unavailability, the data from previous fetch is saved in database so the user can edit the portfolio of their shares.
+A Flutter application created when attending bootcamp for flutter by Qubex Pvt. Ltd,supervised by [Sarbagya Dhaubanjar](https://github.com/sarbagyastha), for keeping record of your shares. The latest marked data are fetched from merolagani.com, and incase of internet unavailability, the data from previous fetch is saved in database so the user can edit the portfolio of their shares.
 
 
 ![](stock.gif)
